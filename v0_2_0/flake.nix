@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-p4ztag_to_json-v0_2_0.flake = false;
+  inputs.src-p4ztag_to_json-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-p4ztag_to_json-v0_2_0.owner = "kaushalmodi";
-  inputs.src-p4ztag_to_json-v0_2_0.ref   = "v0_2_0";
   inputs.src-p4ztag_to_json-v0_2_0.repo  = "p4ztag_to_json";
   inputs.src-p4ztag_to_json-v0_2_0.type  = "github";
   
