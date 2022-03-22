@@ -9,7 +9,7 @@
   
   inputs.src-p4ztag_to_json-v0_1_1.flake = false;
   inputs.src-p4ztag_to_json-v0_1_1.owner = "kaushalmodi";
-  inputs.src-p4ztag_to_json-v0_1_1.ref   = "refs/tags/v0.1.1";
+  inputs.src-p4ztag_to_json-v0_1_1.ref   = "v0_1_1";
   inputs.src-p4ztag_to_json-v0_1_1.repo  = "p4ztag_to_json";
   inputs.src-p4ztag_to_json-v0_1_1.type  = "github";
   
