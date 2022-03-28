@@ -11,7 +11,6 @@
   inputs.src-p4ztag_to_json-master.ref   = "refs/heads/master";
   inputs.src-p4ztag_to_json-master.owner = "kaushalmodi";
   inputs.src-p4ztag_to_json-master.repo  = "p4ztag_to_json";
-  inputs.src-p4ztag_to_json-master.dir   = "";
   inputs.src-p4ztag_to_json-master.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
